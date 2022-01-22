@@ -1,2 +1,2 @@
-#movie-ql
+# movie api with using graphql
 
